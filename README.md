@@ -7,16 +7,15 @@ Package license: BSD 2-Clause
 
 Feedstock license: BSD 3-Clause
 
-Summary: This is a scikit for the Weighted Orthogonal Procrustes Problem.
+Summary: This is a scikit for the Weighted Orthogonal Procrustes Problem
 
 
 
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/scikit-procrustes-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/scikit-procrustes-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/scikit-procrustes-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/scikit-procrustes-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/scikit-procrustes-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/scikit-procrustes-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/scikit-procrustes-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/scikit-procrustes-feedstock)
 
 Current release info
 ====================
